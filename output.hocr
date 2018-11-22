@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 4.00.00alpha' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "D:/Jyoti-backup/python-project_folders/Info-Extraction/eng1.jpg"; bbox 0 0 1368 2238; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 199 208 1138 540">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 199 208 1138 540">
+     <span class='ocr_line' id='line_1_1' title="bbox 199 208 1136 331; baseline -0.005 0; x_size 155.44444; x_descenders 38.861111; x_ascenders 38.861111"><span class='ocrx_word' id='word_1_1' title='bbox 199 208 1136 331; x_wconf 85'>ORIENTAL</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 768 423 1138 540; baseline -0.003 0; x_size 155.44444; x_descenders 38.861111; x_ascenders 38.861111"><span class='ocrx_word' id='word_1_2' title='bbox 768 423 1138 540; x_wconf 87'>ART</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 199 605 1199 709">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 199 605 1199 709">
+     <span class='ocr_line' id='line_1_3' title="bbox 199 605 1199 709; baseline 0 -27; x_size 103; x_descenders 27; x_ascenders 29"><span class='ocrx_word' id='word_1_3' title='bbox 199 608 453 702; x_wconf 80'>India,</span> <span class='ocrx_word' id='word_1_4' title='bbox 486 607 741 709; x_wconf 79'>Nepal</span> <span class='ocrx_word' id='word_1_5' title='bbox 773 606 931 682; x_wconf 83'>and</span> <span class='ocrx_word' id='word_1_6' title='bbox 965 605 1199 682; x_wconf 78'>Tibet</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 196 854 774 982">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 196 854 774 982">
+     <span class='ocr_line' id='line_1_4' title="bbox 196 854 774 982; baseline -0.005 -36; x_size 121; x_descenders 31; x_ascenders 33"><span class='ocrx_word' id='word_1_7' title='bbox 196 855 360 982; x_wconf 74'>for</span> <span class='ocrx_word' id='word_1_8' title='bbox 392 854 774 976; x_wconf 70'>pleasure</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 452 995 1142 1085">
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 452 995 1142 1085">
+     <span class='ocr_line' id='line_1_5' title="bbox 452 995 1142 1085; baseline -0.006 0; x_size 97.424782; x_descenders 8.4247789; x_ascenders 33"><span class='ocrx_word' id='word_1_9' title='bbox 452 996 625 1085; x_wconf 78'>and</span> <span class='ocrx_word' id='word_1_10' title='bbox 671 995 1142 1084; x_wconf 73'><em>investment</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 193 1418 911 1478">
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 193 1418 911 1478">
+     <span class='ocr_line' id='line_1_6' title="bbox 193 1418 911 1478; baseline -0.003 -15; x_size 58.083332; x_descenders 14.520833; x_ascenders 14.520833"><span class='ocrx_word' id='word_1_11' title='bbox 193 1419 263 1478; x_wconf 87'>By</span> <span class='ocrx_word' id='word_1_12' title='bbox 299 1419 611 1463; x_wconf 86'>MICHAEL</span> <span class='ocrx_word' id='word_1_13' title='bbox 658 1418 911 1462; x_wconf 88'>RIDLEY</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 196 1807 1130 1905">
+    <p class='ocr_par' id='par_1_6' lang='eng' title="bbox 196 1807 1130 1905">
+     <span class='ocr_line' id='line_1_7' title="bbox 196 1807 1130 1855; baseline 0.004 -13; x_size 42.5; x_descenders 5.5; x_ascenders 13.5"><span class='ocrx_word' id='word_1_14' title='bbox 196 1807 349 1843; x_wconf 86'>ARCO</span> <span class='ocrx_word' id='word_1_15' title='bbox 374 1808 704 1845; x_wconf 88'>PUBLISHING</span> <span class='ocrx_word' id='word_1_16' title='bbox 730 1809 1009 1855; x_wconf 77'>COMPANY,</span> <span class='ocrx_word' id='word_1_17' title='bbox 1037 1811 1130 1847; x_wconf 84'>INC</span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 550 1868 772 1905; baseline 0 -1; x_size 41.38298; x_descenders 5.3829789; x_ascenders 13"><span class='ocrx_word' id='word_1_18' title='bbox 550 1869 644 1904; x_wconf 79'>New</span> <span class='ocrx_word' id='word_1_19' title='bbox 668 1868 772 1905; x_wconf 87'>York</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
